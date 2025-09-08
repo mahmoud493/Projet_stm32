@@ -1,0 +1,9 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:115:18:virtual void touchgfx::Screen::tearDownScreen()	1
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+../TouchGFX/gui/include/gui/fenetre_principal_screen/Fenetre_PrincipalView.hpp:11:13:Fenetre_PrincipalView::~Fenetre_PrincipalView()	1
+../TouchGFX/gui/include/gui/fenetre_principal_screen/Fenetre_PrincipalView.hpp:11:13:virtual Fenetre_PrincipalView::~Fenetre_PrincipalView()	1
+../TouchGFX/gui/src/fenetre_principal_screen/Fenetre_PrincipalView.cpp:3:1:Fenetre_PrincipalView::Fenetre_PrincipalView()	1
+../TouchGFX/gui/src/fenetre_principal_screen/Fenetre_PrincipalView.cpp:8:6:virtual void Fenetre_PrincipalView::setupScreen()	1
+../TouchGFX/gui/src/fenetre_principal_screen/Fenetre_PrincipalView.cpp:13:6:virtual void Fenetre_PrincipalView::tearDownScreen()	1

@@ -1,0 +1,2 @@
+../Core/Src/adc_task.c:17:6:StartADCTask	16	static
+../Core/Src/adc_task.c:30:6:HAL_ADC_ConvCpltCallback	24	static,ignoring_inline_asm

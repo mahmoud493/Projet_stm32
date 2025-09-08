@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.24.2">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_T4Z4" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Retour</Translation>
+      </Text>
+      <Text Id="__SingleUse_JOTG" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Dephasage</Translation>
+      </Text>
+      <Text Id="__SingleUse_KM7L" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Amplitude</Translation>
+      </Text>
+      <Text Id="__SingleUse_J5BT" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">suivant</Translation>
+      </Text>
+      <Text Id="__SingleUse_NQRJ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">1</Translation>
+      </Text>
+      <Text Id="__SingleUse_VWEQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Amp</Translation>
+      </Text>
+      <Text Id="__SingleUse_H5TO" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Calcul FFT</Translation>
+      </Text>
+      <Text Id="__SingleUse_YD9C" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Retour</Translation>
+      </Text>
+      <Text Id="__SingleUse_5Q9J" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Welcome to D_Metal</Translation>
+      </Text>
+      <Text Id="__SingleUse_QL9Z" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Entree</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

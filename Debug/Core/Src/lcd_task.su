@@ -1,0 +1,2 @@
+../Core/Src/lcd_task.c:16:6:LCD_SendSpectrum	16	static
+../Core/Src/lcd_task.c:28:6:StartLCDTask	24	static

@@ -1,0 +1,9 @@
+../Middlewares/ST/touchgfx/framework/include/platform/driver/touch/TouchController.hpp:30:13:touchgfx::TouchController::~TouchController()	16	static
+../Middlewares/ST/touchgfx/framework/include/platform/driver/touch/TouchController.hpp:30:13:virtual touchgfx::TouchController::~TouchController()	16	static
+../Middlewares/ST/touchgfx/framework/include/platform/driver/touch/TouchController.hpp:26:7:constexpr touchgfx::TouchController::TouchController()	16	static
+../TouchGFX/target/XPT2046TouchController.cpp:8:1:XPT2046TouchController::XPT2046TouchController()	16	static
+../TouchGFX/target/XPT2046TouchController.cpp:13:6:virtual void XPT2046TouchController::init()	16	static
+../TouchGFX/target/XPT2046TouchController.cpp:18:6:virtual bool XPT2046TouchController::sampleTouch(int32_t&, int32_t&)	24	static
+../TouchGFX/target/XPT2046TouchController.cpp:29:6:void XPT2046TouchController::setTouchSample(int32_t, int32_t, bool)	24	static
+../TouchGFX/target/XPT2046TouchController.hpp:17:7:XPT2046TouchController::~XPT2046TouchController()	16	static
+../TouchGFX/target/XPT2046TouchController.hpp:17:7:virtual XPT2046TouchController::~XPT2046TouchController()	16	static

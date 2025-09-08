@@ -1,0 +1,2 @@
+../Core/Src/adc_task.c:17:6:StartADCTask	1
+../Core/Src/adc_task.c:30:6:HAL_ADC_ConvCpltCallback	2

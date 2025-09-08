@@ -1,0 +1,2 @@
+../TouchGFX/bridge/tgfx_bridge.cpp:14:6:void TouchGFX_PushSpectrum(const float*, int)	16	static
+../TouchGFX/bridge/tgfx_bridge.cpp:19:6:void TouchGFX_PushTouch(uint16_t, uint16_t, uint8_t)	16	static

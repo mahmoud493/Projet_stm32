@@ -1,0 +1,2 @@
+../Core/Src/lcd_task.c:16:6:LCD_SendSpectrum	1
+../Core/Src/lcd_task.c:28:6:StartLCDTask	2

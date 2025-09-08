@@ -1,0 +1,24 @@
+# STM32CubeIDE / TouchGFX generated files
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.map
+*.list
+*.su
+
+# CubeIDE config/cache
+.settings/
+.metadata/
+.vscode/
+*.launch
+
+# TouchGFX generated files
+TouchGFX/generated/
+TouchGFX/build/
+
+# OS stuff
+.DS_Store
+Thumbs.db
